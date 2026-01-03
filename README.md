@@ -1,17 +1,9 @@
-# 3LEIC03T4
+# Engenharia de Software
 # Team Lotação
-
-## Elementos
-
-- João Alves up201810087
-- João Silva up201906478 
-- Pedro Paixão up202008467
-- Alexandre Afonso up201805455
-- Carolina Ferreira up201905810
 
 ## Visão 
 
-A primeira iteração do nosso produto é destinado a estudantes da FEUP que pretendam ter informação sobre a lotação da biblioteca em tempo real de forma simples e eficaz, sem necessidade de deslocação. Ao contrário do site da biblioteca, é possível consultar a qualquer hora de forma mais imediata a sua disponibilidade. A aplicação poderá notificar os utilizadores sobre quando a capacidade de cada piso está a baixo de 30% de e quando ultrapassa os 70% de capacidade.Além disso a aplicação prevê a disponibilidade da biblioteca no geral e nos seus pisos baseando-se na ocupação média habitual diária. Contudo em próximas iterações esta ideia pode ser aplicada a outras infraestruturas da faculdade. 
+A primeira iteração deste produto é destinado a estudantes da FEUP que pretendam ter informação sobre a lotação da biblioteca em tempo real de forma simples e eficaz, sem necessidade de deslocação. Ao contrário do site da biblioteca, é possível consultar a qualquer hora de forma mais imediata a sua disponibilidade. A aplicação poderá notificar os utilizadores sobre quando a capacidade de cada piso está a baixo de 30% de e quando ultrapassa os 70% de capacidade. Além disso a aplicação prevê a disponibilidade da biblioteca no geral e nos seus pisos baseando-se na ocupação média habitual diária. Contudo em próximas iterações esta ideia pode ser aplicada a outras infraestruturas da faculdade. 
 
 ## Use case modeling
 ![](Images/UML.png)
