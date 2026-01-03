@@ -73,8 +73,5 @@ Our application will be developed in flutter, we will be scraping data from a we
 ![](Images/PhysicalArchitecture.png)
 
 
-### Vertical Prototype
-![ALT](Images/InitialProto.png)
-
 
 
